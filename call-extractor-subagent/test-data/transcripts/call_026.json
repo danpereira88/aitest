@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "267955800438711",
+    "url": "https://app.callvault.example/call?id=267955800438711",
+    "title": "Parsely Systems / Skyloom",
+    "scheduled": "2025-11-11T10:00:00-07:00",
+    "started": "2025-11-11T10:01:11-07:00",
+    "duration": 2603,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:12] 1474506302036864709: hey, thanks for making the time. can you hear me okay?\n[00:46] 3652913028435605733: yep all good. what time is it there for you? it's morning here.\n[01:28] 1474506302036864709: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[01:49] 3652913028435605733: sure. so we're Parsely Systems, we're in the saas space. and yeah, we just closed our Series B so we finally have budget to do this properly.\n[02:45] 3652913028435605733: at our log volume the current tool just falls over, queries time out constantly.\n[03:37] 1474506302036864709: that's a really common story. what are you using today?\n[04:05] 3652913028435605733: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[04:34] 1474506302036864709: got it. and is that something you're actively trying to fix?\n[05:31] 3652913028435605733: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[06:21] 1474506302036864709: got it. and is that something you're actively trying to fix?\n[06:50] 3652913028435605733: we have zero visibility into what the actual user experience looks like in the browser.\n[08:04] 3652913028435605733: the team just mutes alerts at this point because ninety percent of them are noise.\n[08:30] 1474506302036864709: makes sense. when you picture this working well, what does that look like?\n[09:07] 3652913028435605733: your tracing demo looked genuinely better than what we're used to.\n[10:21] 1474506302036864709: and what would hold you back from moving on this?\n[11:11] 3652913028435605733: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[11:54] 3652913028435605733: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[12:21] 1474506302036864709: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[12:53] 3652913028435605733: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[13:49] 1474506302036864709: great — here's what I'd suggest as a next step.\n[14:18] 3652913028435605733: works for me.",
+  "speaker_map": {}
+}

@@ -1,0 +1,19 @@
+{
+  "call": {
+    "id": "153147663775954",
+    "url": "https://app.callvault.example/call?id=153147663775954",
+    "title": "Foundry42 / Skyloom",
+    "scheduled": "2025-12-13T10:00:00-07:00",
+    "started": "2025-12-13T10:01:11-07:00",
+    "duration": 2374,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:08] 6349415387251834267: hey, thanks for making the time. can you hear me okay?\n[00:52] 7038593543970106404: yep all good. what time is it there for you? it's morning here.\n[01:40] 6349415387251834267: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:23] 7038593543970106404: sure. so we're Foundry42, we're in the saas space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[03:26] 7038593543970106404: the team just mutes alerts at this point because ninety percent of them are noise.\n[03:59] 6349415387251834267: that's a really common story. what are you using today?\n[04:46] 7038593543970106404: right now it's mostly Cloud-native tooling. and we just use the cloud provider's built-in stuff but it's siloed per account and we're flying blind across services.\n[05:36] 6349415387251834267: got it. and is that something you're actively trying to fix?\n[06:01] 7038593543970106404: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[07:03] 6349415387251834267: got it. and is that something you're actively trying to fix?\n[07:23] 7038593543970106404: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[08:01] 6349415387251834267: got it. and is that something you're actively trying to fix?\n[08:48] 7038593543970106404: we have zero visibility into what the actual user experience looks like in the browser.\n[09:50] 7038593543970106404: we're running like five different tools and none of them talk to each other.\n[10:50] 6349415387251834267: makes sense. when you picture this working well, what does that look like?\n[11:44] 7038593543970106404: the single-pane thing is really appealing, we're tired of jumping between tools.\n[12:25] 6349415387251834267: and what would hold you back from moving on this?\n[12:45] 7038593543970106404: we got burned on a migration two years ago so people are nervous about doing it again.\n[13:57] 7038593543970106404: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[15:17] 6349415387251834267: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:47] 7038593543970106404: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[16:50] 6349415387251834267: great — here's what I'd suggest as a next step.\n[17:24] 7038593543970106404: works for me.",
+  "speaker_map": {
+    "6349415387251834267": "Sarah Okonkwo",
+    "7038593543970106404": "Alex (Foundry42)"
+  }
+}

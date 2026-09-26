@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "44420103213510",
+    "url": "https://app.callvault.example/call?id=44420103213510",
+    "title": "Ironclad Manufacturing / Skyloom",
+    "scheduled": "2025-11-22T09:00:00-07:00",
+    "started": "2025-11-22T09:01:11-07:00",
+    "duration": 1822,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:07] 6146302309226089123: hey, thanks for making the time. can you hear me okay?\n[00:38] 4565425481159951562: yep all good. what time is it there for you? it's morning here.\n[01:44] 6146302309226089123: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:41] 4565425481159951562: sure. so we're Ironclad Manufacturing, we're in the enterprise it space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:59] 4565425481159951562: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[04:57] 6146302309226089123: that's a really common story. what are you using today?\n[05:21] 4565425481159951562: right now it's mostly Grafalt. and we self-host it but it's basically two engineers full time just keeping it alive.\n[06:02] 4565425481159951562: we've also looked at Newforge and Datazen a bit.\n[06:27] 6146302309226089123: got it. and is that something you're actively trying to fix?\n[07:19] 4565425481159951562: logs are scattered across four different systems and correlating them during an incident is painful.\n[08:21] 6146302309226089123: got it. and is that something you're actively trying to fix?\n[08:45] 4565425481159951562: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[10:03] 4565425481159951562: at our log volume the current tool just falls over, queries time out constantly.\n[10:45] 6146302309226089123: makes sense. when you picture this working well, what does that look like?\n[11:19] 4565425481159951562: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[12:20] 6146302309226089123: and what would hold you back from moving on this?\n[13:19] 4565425481159951562: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[14:21] 4565425481159951562: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[15:06] 6146302309226089123: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:29] 4565425481159951562: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[16:27] 6146302309226089123: great — here's what I'd suggest as a next step.\n[17:27] 4565425481159951562: works for me.",
+  "speaker_map": {}
+}

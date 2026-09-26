@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "125776788196162",
+    "url": "https://app.callvault.example/call?id=125776788196162",
+    "title": "Grandview Retail Group / Skyloom",
+    "scheduled": "2026-01-15T14:00:00-07:00",
+    "started": "2026-01-15T14:01:11-07:00",
+    "duration": 1288,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:05] 8813785962438715918: hey, thanks for making the time. can you hear me okay?\n[00:36] 4974607154731871683: yep all good. what time is it there for you? it's morning here.\n[01:42] 8813785962438715918: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[02:20] 4974607154731871683: sure. so we're Grandview Retail Group, we're in the enterprise it space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:28] 4974607154731871683: we're running like five different tools and none of them talk to each other.\n[04:13] 8813785962438715918: that's a really common story. what are you using today?\n[04:51] 4974607154731871683: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:13] 4974607154731871683: we've also looked at Cloud-native tooling and Datazen a bit.\n[05:58] 8813785962438715918: got it. and is that something you're actively trying to fix?\n[06:16] 4974607154731871683: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[07:12] 8813785962438715918: got it. and is that something you're actively trying to fix?\n[08:02] 4974607154731871683: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[08:34] 4974607154731871683: the team just mutes alerts at this point because ninety percent of them are noise.\n[09:17] 8813785962438715918: makes sense. when you picture this working well, what does that look like?\n[10:07] 4974607154731871683: what caught our eye was the pricing model, it sounds a lot more predictable than what we have.\n[10:45] 8813785962438715918: and what would hold you back from moving on this?\n[11:04] 4974607154731871683: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[11:48] 4974607154731871683: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[12:40] 8813785962438715918: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:23] 4974607154731871683: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[14:31] 8813785962438715918: great — here's what I'd suggest as a next step.\n[15:21] 4974607154731871683: works for me.",
+  "speaker_map": {}
+}

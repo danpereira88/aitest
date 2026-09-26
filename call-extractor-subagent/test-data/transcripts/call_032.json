@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "214516243852059",
+    "url": "https://app.callvault.example/call?id=214516243852059",
+    "title": "Vitalsync / Skyloom",
+    "scheduled": "2025-11-16T10:00:00+01:00",
+    "started": "2025-11-16T10:01:11+01:00",
+    "duration": 1483,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:08] 3939349109241760902: hey, thanks for making the time. can you hear me okay?\n[00:32] 1913880516720761693: yep all good. what time is it there for you? it's afternoon here.\n[01:00] 3939349109241760902: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Netherlands.\n[01:17] 1913880516720761693: sure. so we're Vitalsync, we're in the healthtech space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[01:55] 1913880516720761693: we're locked into an annual contract that auto-renews and it's a fight to get out.\n[03:13] 3939349109241760902: that's a really common story. what are you using today?\n[03:58] 1913880516720761693: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:02] 1913880516720761693: we've also looked at Grafalt and Splunkr a bit.\n[06:15] 3939349109241760902: got it. and is that something you're actively trying to fix?\n[06:38] 1913880516720761693: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[07:46] 3939349109241760902: got it. and is that something you're actively trying to fix?\n[08:46] 1913880516720761693: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[09:36] 1913880516720761693: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[10:24] 3939349109241760902: makes sense. when you picture this working well, what does that look like?\n[11:18] 1913880516720761693: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[11:38] 3939349109241760902: and what would hold you back from moving on this?\n[11:58] 1913880516720761693: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[12:19] 1913880516720761693: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[12:55] 3939349109241760902: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:23] 1913880516720761693: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[14:36] 3939349109241760902: great — here's what I'd suggest as a next step.\n[15:00] 1913880516720761693: works for me.",
+  "speaker_map": {}
+}

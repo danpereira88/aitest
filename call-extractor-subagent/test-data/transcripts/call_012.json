@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "204568035862951",
+    "url": "https://app.callvault.example/call?id=204568035862951",
+    "title": "Ledgerly / Skyloom",
+    "scheduled": "2026-02-07T15:00:00-07:00",
+    "started": "2026-02-07T15:01:11-07:00",
+    "duration": 1416,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:08] 5289181443412493883: hey, thanks for making the time. can you hear me okay?\n[00:33] 3363430960219824880: yep all good. what time is it there for you? it's morning here.\n[01:31] 5289181443412493883: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:24] 3363430960219824880: sure. so we're Ledgerly, we're in the saas space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[03:31] 3363430960219824880: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[04:36] 5289181443412493883: that's a really common story. what are you using today?\n[04:58] 3363430960219824880: right now it's mostly Splunkr. and the query language has a huge learning curve and log ingestion pricing is brutal at our volume.\n[06:07] 3363430960219824880: we've also looked at Grafalt a bit.\n[07:19] 5289181443412493883: got it. and is that something you're actively trying to fix?\n[07:44] 3363430960219824880: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[08:23] 5289181443412493883: got it. and is that something you're actively trying to fix?\n[08:44] 3363430960219824880: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[09:41] 3363430960219824880: the team just mutes alerts at this point because ninety percent of them are noise.\n[10:02] 5289181443412493883: makes sense. when you picture this working well, what does that look like?\n[10:36] 3363430960219824880: the single-pane thing is really appealing, we're tired of jumping between tools.\n[11:32] 5289181443412493883: and what would hold you back from moving on this?\n[12:30] 3363430960219824880: honestly the concern is whether the team has bandwidth to switch right now.\n[13:48] 3363430960219824880: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[14:32] 5289181443412493883: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:12] 3363430960219824880: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[16:32] 5289181443412493883: great — here's what I'd suggest as a next step.\n[17:32] 3363430960219824880: works for me.",
+  "speaker_map": {}
+}

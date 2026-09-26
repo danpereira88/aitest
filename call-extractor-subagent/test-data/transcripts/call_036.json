@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "2376926217473",
+    "url": "https://app.callvault.example/call?id=2376926217473",
+    "title": "Streampine / Skyloom",
+    "scheduled": "2026-02-19T11:00:00+01:00",
+    "started": "2026-02-19T11:01:11+01:00",
+    "duration": 2357,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:11] 7612545294030960118: hey, thanks for making the time. can you hear me okay?\n[00:52] 5414906378247198602: yep all good. what time is it there for you? it's afternoon here.\n[02:01] 7612545294030960118: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Netherlands.\n[02:42] 5414906378247198602: sure. so we're Streampine, we're in the media space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:54] 5414906378247198602: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[04:50] 7612545294030960118: that's a really common story. what are you using today?\n[05:09] 5414906378247198602: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:37] 7612545294030960118: got it. and is that something you're actively trying to fix?\n[06:12] 5414906378247198602: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[07:13] 7612545294030960118: got it. and is that something you're actively trying to fix?\n[07:32] 5414906378247198602: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[08:20] 7612545294030960118: got it. and is that something you're actively trying to fix?\n[09:04] 5414906378247198602: logs are scattered across four different systems and correlating them during an incident is painful.\n[10:07] 7612545294030960118: got it. and is that something you're actively trying to fix?\n[10:55] 5414906378247198602: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[11:37] 5414906378247198602: at our log volume the current tool just falls over, queries time out constantly.\n[12:05] 7612545294030960118: makes sense. when you picture this working well, what does that look like?\n[12:55] 5414906378247198602: your tracing demo looked genuinely better than what we're used to.\n[13:55] 7612545294030960118: and what would hold you back from moving on this?\n[14:47] 5414906378247198602: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[15:18] 5414906378247198602: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[16:27] 7612545294030960118: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:50] 5414906378247198602: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[17:37] 7612545294030960118: great — here's what I'd suggest as a next step.\n[18:24] 5414906378247198602: works for me.",
+  "speaker_map": {}
+}

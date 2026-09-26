@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "154681987409149",
+    "url": "https://app.callvault.example/call?id=154681987409149",
+    "title": "Parsely Systems / Skyloom",
+    "scheduled": "2026-02-16T09:00:00-07:00",
+    "started": "2026-02-16T09:01:11-07:00",
+    "duration": 2246,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:03] 2460780751933166538: hey, thanks for making the time. can you hear me okay?\n[00:53] 6080593158816748088: yep all good. what time is it there for you? it's morning here.\n[01:39] 2460780751933166538: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[01:59] 6080593158816748088: sure. so we're Parsely Systems, we're in the saas space. and yeah, our renewal is coming up and the quote came back thirty percent higher, so we're looking around.\n[02:33] 6080593158816748088: our mean time to resolve is embarrassing, last outage took us three hours just to localize.\n[03:46] 2460780751933166538: that's a really common story. what are you using today?\n[04:08] 6080593158816748088: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[04:57] 2460780751933166538: got it. and is that something you're actively trying to fix?\n[05:19] 6080593158816748088: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[06:20] 2460780751933166538: got it. and is that something you're actively trying to fix?\n[06:44] 6080593158816748088: we have zero visibility into what the actual user experience looks like in the browser.\n[07:35] 2460780751933166538: got it. and is that something you're actively trying to fix?\n[08:35] 6080593158816748088: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[09:13] 2460780751933166538: got it. and is that something you're actively trying to fix?\n[10:00] 6080593158816748088: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[11:05] 6080593158816748088: we're running like five different tools and none of them talk to each other.\n[11:42] 2460780751933166538: makes sense. when you picture this working well, what does that look like?\n[12:23] 6080593158816748088: your tracing demo looked genuinely better than what we're used to.\n[13:36] 2460780751933166538: and what would hold you back from moving on this?\n[14:21] 6080593158816748088: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[15:11] 6080593158816748088: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[15:46] 2460780751933166538: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:30] 6080593158816748088: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[17:25] 2460780751933166538: great — here's what I'd suggest as a next step.\n[17:49] 6080593158816748088: works for me.",
+  "speaker_map": {}
+}

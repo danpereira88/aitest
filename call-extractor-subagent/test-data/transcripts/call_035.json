@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "6559388420582",
+    "url": "https://app.callvault.example/call?id=6559388420582",
+    "title": "Foundry42 / Skyloom",
+    "scheduled": "2025-11-21T16:00:00-07:00",
+    "started": "2025-11-21T16:01:11-07:00",
+    "duration": 971,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:03] 3302261136534812283: hey, thanks for making the time. can you hear me okay?\n[00:29] 2046378810525918321: yep all good. what time is it there for you? it's morning here.\n[01:20] 3302261136534812283: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[02:08] 2046378810525918321: sure. so we're Foundry42, we're in the saas space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[02:52] 2046378810525918321: the team just mutes alerts at this point because ninety percent of them are noise.\n[04:10] 3302261136534812283: that's a really common story. what are you using today?\n[05:00] 2046378810525918321: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:27] 3302261136534812283: got it. and is that something you're actively trying to fix?\n[05:58] 2046378810525918321: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[07:07] 3302261136534812283: got it. and is that something you're actively trying to fix?\n[07:38] 2046378810525918321: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[08:43] 2046378810525918321: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[09:31] 3302261136534812283: makes sense. when you picture this working well, what does that look like?\n[09:59] 2046378810525918321: your tracing demo looked genuinely better than what we're used to.\n[10:58] 3302261136534812283: and what would hold you back from moving on this?\n[11:31] 2046378810525918321: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[12:35] 2046378810525918321: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[13:53] 3302261136534812283: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:39] 2046378810525918321: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[15:11] 3302261136534812283: great — here's what I'd suggest as a next step.\n[15:33] 2046378810525918321: works for me.",
+  "speaker_map": {}
+}

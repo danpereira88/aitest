@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "218062717152800",
+    "url": "https://app.callvault.example/call?id=218062717152800",
+    "title": "Tessellate / Skyloom",
+    "scheduled": "2026-01-06T12:00:00+01:00",
+    "started": "2026-01-06T12:01:11+01:00",
+    "duration": 2159,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:08] 6399036264753221881: hey, thanks for making the time. can you hear me okay?\n[00:47] 7568450190009767508: yep all good. what time is it there for you? it's afternoon here.\n[01:45] 6399036264753221881: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United Kingdom.\n[02:33] 7568450190009767508: sure. so we're Tessellate, we're in the saas space. and yeah, our new VP of Engineering came in and wants observability sorted in the first quarter.\n[03:11] 7568450190009767508: we're running like five different tools and none of them talk to each other.\n[04:00] 6399036264753221881: that's a really common story. what are you using today?\n[04:47] 7568450190009767508: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:45] 7568450190009767508: we've also looked at Splunkr a bit.\n[06:32] 6399036264753221881: got it. and is that something you're actively trying to fix?\n[06:53] 7568450190009767508: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[08:03] 6399036264753221881: got it. and is that something you're actively trying to fix?\n[09:02] 7568450190009767508: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[09:29] 7568450190009767508: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[10:43] 6399036264753221881: makes sense. when you picture this working well, what does that look like?\n[11:39] 7568450190009767508: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[12:40] 6399036264753221881: and what would hold you back from moving on this?\n[13:30] 7568450190009767508: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[14:36] 7568450190009767508: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[15:51] 6399036264753221881: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:19] 7568450190009767508: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[17:06] 6399036264753221881: great — here's what I'd suggest as a next step.\n[17:49] 7568450190009767508: works for me.",
+  "speaker_map": {}
+}

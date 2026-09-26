@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "29109750698819",
+    "url": "https://app.callvault.example/call?id=29109750698819",
+    "title": "Quillstack / Skyloom",
+    "scheduled": "2026-01-29T11:00:00-07:00",
+    "started": "2026-01-29T11:01:11-07:00",
+    "duration": 910,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:07] 8267654067531378601: hey, thanks for making the time. can you hear me okay?\n[00:24] 2718421446663961259: yep all good. what time is it there for you? it's morning here.\n[00:44] 8267654067531378601: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[01:18] 2718421446663961259: sure. so we're Quillstack, we're in the saas space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[02:14] 2718421446663961259: at our log volume the current tool just falls over, queries time out constantly.\n[03:12] 8267654067531378601: that's a really common story. what are you using today?\n[03:33] 2718421446663961259: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[04:52] 8267654067531378601: got it. and is that something you're actively trying to fix?\n[05:28] 2718421446663961259: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[06:06] 8267654067531378601: got it. and is that something you're actively trying to fix?\n[06:50] 2718421446663961259: we have zero visibility into what the actual user experience looks like in the browser.\n[07:51] 8267654067531378601: got it. and is that something you're actively trying to fix?\n[08:40] 2718421446663961259: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[09:33] 8267654067531378601: got it. and is that something you're actively trying to fix?\n[10:19] 2718421446663961259: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[11:35] 2718421446663961259: the team just mutes alerts at this point because ninety percent of them are noise.\n[12:55] 8267654067531378601: makes sense. when you picture this working well, what does that look like?\n[13:18] 2718421446663961259: the single-pane thing is really appealing, we're tired of jumping between tools.\n[14:32] 8267654067531378601: and what would hold you back from moving on this?\n[15:19] 2718421446663961259: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[16:08] 2718421446663961259: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[16:45] 8267654067531378601: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[17:12] 2718421446663961259: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[18:23] 8267654067531378601: great — here's what I'd suggest as a next step.\n[18:45] 2718421446663961259: works for me.",
+  "speaker_map": {}
+}

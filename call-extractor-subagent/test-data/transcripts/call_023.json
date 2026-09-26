@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "104733194413017",
+    "url": "https://app.callvault.example/call?id=104733194413017",
+    "title": "Pulsewell / Skyloom",
+    "scheduled": "2026-02-21T15:00:00-03:00",
+    "started": "2026-02-21T15:01:11-03:00",
+    "duration": 2632,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:10] 3041752026923030750: hey, thanks for making the time. can you hear me okay?\n[01:09] 1583074257396599799: yep all good. what time is it there for you? it's morning here.\n[01:48] 3041752026923030750: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Brazil.\n[02:44] 1583074257396599799: sure. so we're Pulsewell, we're in the healthtech space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:30] 1583074257396599799: we're running like five different tools and none of them talk to each other.\n[03:57] 3041752026923030750: that's a really common story. what are you using today?\n[04:20] 1583074257396599799: right now it's mostly Grafalt. and we self-host it but it's basically two engineers full time just keeping it alive.\n[04:42] 1583074257396599799: we've also looked at Honeydew a bit.\n[06:02] 3041752026923030750: got it. and is that something you're actively trying to fix?\n[06:19] 1583074257396599799: logs are scattered across four different systems and correlating them during an incident is painful.\n[06:58] 3041752026923030750: got it. and is that something you're actively trying to fix?\n[07:44] 1583074257396599799: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[08:11] 3041752026923030750: got it. and is that something you're actively trying to fix?\n[08:32] 1583074257396599799: we have zero visibility into what the actual user experience looks like in the browser.\n[09:07] 3041752026923030750: got it. and is that something you're actively trying to fix?\n[09:56] 1583074257396599799: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[10:24] 1583074257396599799: the team just mutes alerts at this point because ninety percent of them are noise.\n[11:08] 3041752026923030750: makes sense. when you picture this working well, what does that look like?\n[11:52] 1583074257396599799: what caught our eye was the pricing model, it sounds a lot more predictable than what we have.\n[12:35] 3041752026923030750: and what would hold you back from moving on this?\n[13:32] 1583074257396599799: honestly the concern is whether the team has bandwidth to switch right now.\n[14:52] 1583074257396599799: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[15:59] 3041752026923030750: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:58] 1583074257396599799: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[18:18] 3041752026923030750: great — here's what I'd suggest as a next step.\n[19:07] 1583074257396599799: works for me.",
+  "speaker_map": {}
+}

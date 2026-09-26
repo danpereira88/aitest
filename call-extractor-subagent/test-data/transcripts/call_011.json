@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "155434503130127",
+    "url": "https://app.callvault.example/call?id=155434503130127",
+    "title": "Payline Go / Skyloom",
+    "scheduled": "2026-01-01T15:00:00-07:00",
+    "started": "2026-01-01T15:01:11-07:00",
+    "duration": 1027,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:10] 3023807416813788025: hey, thanks for making the time. can you hear me okay?\n[00:26] 5019877386347550390: yep all good. what time is it there for you? it's morning here.\n[01:10] 3023807416813788025: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[01:46] 5019877386347550390: sure. so we're Payline Go, we're in the fintech space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[02:48] 5019877386347550390: only two people on the team actually know how to write the queries we need.\n[03:51] 3023807416813788025: that's a really common story. what are you using today?\n[04:31] 5019877386347550390: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:37] 3023807416813788025: got it. and is that something you're actively trying to fix?\n[06:02] 5019877386347550390: we have zero visibility into what the actual user experience looks like in the browser.\n[07:15] 3023807416813788025: got it. and is that something you're actively trying to fix?\n[07:59] 5019877386347550390: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[09:17] 5019877386347550390: last time we instrumented a service it took the team almost a full sprint.\n[09:45] 3023807416813788025: makes sense. when you picture this working well, what does that look like?\n[10:39] 5019877386347550390: your tracing demo looked genuinely better than what we're used to.\n[11:33] 3023807416813788025: and what would hold you back from moving on this?\n[11:49] 5019877386347550390: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[13:07] 5019877386347550390: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[13:52] 3023807416813788025: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:44] 5019877386347550390: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[15:40] 3023807416813788025: great — here's what I'd suggest as a next step.\n[16:37] 5019877386347550390: works for me.",
+  "speaker_map": {}
+}

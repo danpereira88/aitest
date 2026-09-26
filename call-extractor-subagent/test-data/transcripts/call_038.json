@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "242661109466571",
+    "url": "https://app.callvault.example/call?id=242661109466571",
+    "title": "Quillstack / Skyloom",
+    "scheduled": "2025-12-30T09:00:00-07:00",
+    "started": "2025-12-30T09:00:00-07:00",
+    "duration": 83,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:03] 5302450040600954969: hi, this is Elena Costa from Skyloom, sorry I missed you — give me a call back when you get a chance. thanks.",
+  "speaker_map": {}
+}

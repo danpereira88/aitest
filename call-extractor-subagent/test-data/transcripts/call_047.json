@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "189442106590560",
+    "url": "https://app.callvault.example/call?id=189442106590560",
+    "title": "Shelfly / Skyloom",
+    "scheduled": "2025-11-18T11:00:00-07:00",
+    "started": "2025-11-18T11:01:11-07:00",
+    "duration": 2000,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:03] 4866812024961021759: hey, thanks for making the time. can you hear me okay?\n[00:33] 8065596133731179362: yep all good. what time is it there for you? it's morning here.\n[01:06] 4866812024961021759: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[01:25] 8065596133731179362: sure. so we're Shelfly, we're in the e-commerce space. and yeah, our new VP of Engineering came in and wants observability sorted in the first quarter.\n[01:51] 8065596133731179362: at our log volume the current tool just falls over, queries time out constantly.\n[02:49] 4866812024961021759: that's a really common story. what are you using today?\n[03:06] 8065596133731179362: right now it's mostly Splunkr. and the query language has a huge learning curve and log ingestion pricing is brutal at our volume.\n[03:54] 8065596133731179362: we've also looked at Newforge a bit.\n[04:52] 4866812024961021759: got it. and is that something you're actively trying to fix?\n[05:50] 8065596133731179362: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[06:55] 4866812024961021759: got it. and is that something you're actively trying to fix?\n[07:13] 8065596133731179362: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[07:48] 4866812024961021759: got it. and is that something you're actively trying to fix?\n[08:05] 8065596133731179362: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[08:50] 8065596133731179362: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[09:38] 4866812024961021759: makes sense. when you picture this working well, what does that look like?\n[10:07] 8065596133731179362: the single-pane thing is really appealing, we're tired of jumping between tools.\n[11:01] 4866812024961021759: and what would hold you back from moving on this?\n[11:29] 8065596133731179362: honestly the concern is whether the team has bandwidth to switch right now.\n[12:37] 8065596133731179362: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[13:52] 4866812024961021759: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:10] 8065596133731179362: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[14:38] 4866812024961021759: great — here's what I'd suggest as a next step.\n[15:25] 8065596133731179362: works for me.",
+  "speaker_map": {}
+}

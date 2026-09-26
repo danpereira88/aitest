@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "165876804620344",
+    "url": "https://app.callvault.example/call?id=165876804620344",
+    "title": "Draftbox / Skyloom",
+    "scheduled": "2026-02-03T09:00:00-07:00",
+    "started": "2026-02-03T09:00:00-07:00",
+    "duration": 124,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:04] 2762184511064652479: hey just calling to confirm we're still good for Thursday?\n[00:12] 3226116631177378599: yeah Thursday works, talk then.\n[00:18] 2762184511064652479: perfect, bye.",
+  "speaker_map": {}
+}

@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "103188115791678",
+    "url": "https://app.callvault.example/call?id=103188115791678",
+    "title": "Fernpay / Skyloom",
+    "scheduled": "2025-12-10T12:00:00-07:00",
+    "started": "2025-12-10T12:01:11-07:00",
+    "duration": 1728,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:12] 5465943698048627144: hey, thanks for making the time. can you hear me okay?\n[01:00] 7683117002372460030: yep all good. what time is it there for you? it's morning here.\n[01:58] 5465943698048627144: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[02:31] 7683117002372460030: sure. so we're Fernpay, we're in the fintech space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[02:57] 7683117002372460030: we're running like five different tools and none of them talk to each other.\n[04:10] 5465943698048627144: that's a really common story. what are you using today?\n[04:37] 7683117002372460030: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:15] 7683117002372460030: we've also looked at Newforge a bit.\n[05:49] 5465943698048627144: got it. and is that something you're actively trying to fix?\n[06:27] 7683117002372460030: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[06:58] 5465943698048627144: got it. and is that something you're actively trying to fix?\n[07:32] 7683117002372460030: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[07:52] 5465943698048627144: got it. and is that something you're actively trying to fix?\n[08:52] 7683117002372460030: logs are scattered across four different systems and correlating them during an incident is painful.\n[09:46] 5465943698048627144: got it. and is that something you're actively trying to fix?\n[10:09] 7683117002372460030: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[10:46] 7683117002372460030: at our log volume the current tool just falls over, queries time out constantly.\n[11:08] 5465943698048627144: makes sense. when you picture this working well, what does that look like?\n[11:26] 7683117002372460030: the single-pane thing is really appealing, we're tired of jumping between tools.\n[12:21] 5465943698048627144: and what would hold you back from moving on this?\n[12:54] 7683117002372460030: we got burned on a migration two years ago so people are nervous about doing it again.\n[13:58] 7683117002372460030: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[15:18] 5465943698048627144: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:41] 7683117002372460030: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[16:41] 5465943698048627144: great — here's what I'd suggest as a next step.\n[17:27] 7683117002372460030: works for me.",
+  "speaker_map": {}
+}

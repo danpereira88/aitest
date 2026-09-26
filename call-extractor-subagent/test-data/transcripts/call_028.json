@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "218910477533005",
+    "url": "https://app.callvault.example/call?id=218910477533005",
+    "title": "Parsely Systems / Skyloom",
+    "scheduled": "2025-12-10T14:00:00-03:00",
+    "started": "2025-12-10T14:01:11-03:00",
+    "duration": 1145,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:09] 8951561409717784006: hey, thanks for making the time. can you hear me okay?\n[01:00] 6310440949307194822: yep all good. what time is it there for you? it's morning here.\n[01:45] 8951561409717784006: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Brazil.\n[02:45] 6310440949307194822: sure. so we're Parsely Systems, we're in the saas space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[03:45] 6310440949307194822: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[04:31] 8951561409717784006: that's a really common story. what are you using today?\n[05:04] 6310440949307194822: right now it's mostly Grafalt. and we self-host it but it's basically two engineers full time just keeping it alive.\n[05:31] 8951561409717784006: got it. and is that something you're actively trying to fix?\n[06:11] 6310440949307194822: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[06:32] 8951561409717784006: got it. and is that something you're actively trying to fix?\n[07:07] 6310440949307194822: we have zero visibility into what the actual user experience looks like in the browser.\n[07:37] 6310440949307194822: our mean time to resolve is embarrassing, last outage took us three hours just to localize.\n[08:48] 8951561409717784006: makes sense. when you picture this working well, what does that look like?\n[09:42] 6310440949307194822: your tracing demo looked genuinely better than what we're used to.\n[10:31] 8951561409717784006: and what would hold you back from moving on this?\n[11:30] 6310440949307194822: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[12:48] 6310440949307194822: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[13:31] 8951561409717784006: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:51] 6310440949307194822: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[14:38] 8951561409717784006: great — here's what I'd suggest as a next step.\n[14:59] 6310440949307194822: works for me.",
+  "speaker_map": {}
+}

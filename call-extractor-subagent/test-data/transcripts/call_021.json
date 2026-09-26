@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "61839784263683",
+    "url": "https://app.callvault.example/call?id=61839784263683",
+    "title": "Parsely Systems / Skyloom",
+    "scheduled": "2025-11-15T10:00:00-03:00",
+    "started": "2025-11-15T10:01:11-03:00",
+    "duration": 1808,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:05] 5590170183223936375: hey, thanks for making the time. can you hear me okay?\n[00:34] 6378675200393947549: yep all good. what time is it there for you? it's morning here.\n[01:23] 5590170183223936375: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Brazil.\n[02:18] 6378675200393947549: sure. so we're Parsely Systems, we're in the saas space. and yeah, our renewal is coming up and the quote came back thirty percent higher, so we're looking around.\n[02:54] 6378675200393947549: the team just mutes alerts at this point because ninety percent of them are noise.\n[03:43] 5590170183223936375: that's a really common story. what are you using today?\n[04:14] 6378675200393947549: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:16] 5590170183223936375: got it. and is that something you're actively trying to fix?\n[05:31] 6378675200393947549: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[06:48] 5590170183223936375: got it. and is that something you're actively trying to fix?\n[07:32] 6378675200393947549: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[08:49] 6378675200393947549: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[09:27] 5590170183223936375: makes sense. when you picture this working well, what does that look like?\n[10:25] 6378675200393947549: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[11:19] 5590170183223936375: and what would hold you back from moving on this?\n[11:44] 6378675200393947549: honestly the concern is whether the team has bandwidth to switch right now.\n[12:08] 6378675200393947549: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[12:56] 5590170183223936375: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:33] 6378675200393947549: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[14:30] 5590170183223936375: great — here's what I'd suggest as a next step.\n[15:04] 6378675200393947549: works for me.",
+  "speaker_map": {}
+}

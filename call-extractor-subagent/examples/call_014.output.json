@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "source_file": "call_014.json",
+    "call_id": "165876804620344",
+    "call_url": "https://app.callvault.example/call?id=165876804620344",
+    "extraction_date": "2026-02-28",
+    "call_date": "2026-02-03",
+    "call_duration_minutes": 2.1,
+    "call_language": "eng",
+    "call_scope": "External",
+    "rep": null,
+    "confidence_overall": 0.24
+  },
+  "account": {
+    "name": "Draftbox",
+    "segment": "Other",
+    "segment_confidence": 0.2,
+    "region": null,
+    "region_confidence": 0.2,
+    "country": null,
+    "description": null
+  },
+  "products": {
+    "mentioned": [],
+    "primary_focus": null,
+    "multi_product": false
+  },
+  "use_cases": [],
+  "switching_forces": {
+    "push": null,
+    "pull": null,
+    "anxiety": null,
+    "habit": null,
+    "trigger_event": null,
+    "push_verbatim": null,
+    "pull_verbatim": null,
+    "anxiety_verbatim": null
+  },
+  "pain_points": [],
+  "competitors": {
+    "named": [],
+    "context": null
+  },
+  "deal_signals": {
+    "stage_hint": "Unknown",
+    "urgency": "Unknown",
+    "blockers_mentioned": [],
+    "next_steps_mentioned": null
+  },
+  "summary": "Short call (124s) \u2014 likely a scheduling. Minimal signal."
+}

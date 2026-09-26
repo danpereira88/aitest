@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "142881362386024",
+    "url": "https://app.callvault.example/call?id=142881362386024",
+    "title": "Echowave / Skyloom",
+    "scheduled": "2025-12-03T09:00:00-07:00",
+    "started": "2025-12-03T09:01:11-07:00",
+    "duration": 1393,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:06] 5164224675506805172: hey, thanks for making the time. can you hear me okay?\n[00:25] 3286525750074548631: yep all good. what time is it there for you? it's morning here.\n[01:06] 5164224675506805172: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[01:22] 3286525750074548631: sure. so we're Echowave, we're in the media space. and yeah, our new VP of Engineering came in and wants observability sorted in the first quarter.\n[02:19] 3286525750074548631: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:14] 5164224675506805172: that's a really common story. what are you using today?\n[03:43] 3286525750074548631: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[04:40] 3286525750074548631: we've also looked at Cloud-native tooling a bit.\n[05:14] 5164224675506805172: got it. and is that something you're actively trying to fix?\n[05:29] 3286525750074548631: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[05:53] 5164224675506805172: got it. and is that something you're actively trying to fix?\n[06:53] 3286525750074548631: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[07:53] 5164224675506805172: got it. and is that something you're actively trying to fix?\n[08:11] 3286525750074548631: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[08:45] 5164224675506805172: got it. and is that something you're actively trying to fix?\n[09:04] 3286525750074548631: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[10:21] 3286525750074548631: our mean time to resolve is embarrassing, last outage took us three hours just to localize.\n[10:43] 5164224675506805172: makes sense. when you picture this working well, what does that look like?\n[11:19] 3286525750074548631: the single-pane thing is really appealing, we're tired of jumping between tools.\n[11:43] 5164224675506805172: and what would hold you back from moving on this?\n[12:30] 3286525750074548631: honestly the concern is whether the team has bandwidth to switch right now.\n[13:05] 3286525750074548631: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[13:42] 5164224675506805172: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:39] 3286525750074548631: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[15:30] 5164224675506805172: great — here's what I'd suggest as a next step.\n[15:58] 3286525750074548631: works for me.",
+  "speaker_map": {}
+}

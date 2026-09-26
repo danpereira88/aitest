@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "232494077494997",
+    "url": "https://app.callvault.example/call?id=232494077494997",
+    "title": "Cadence Software / Skyloom",
+    "scheduled": "2025-11-05T15:00:00-07:00",
+    "started": "2025-11-05T15:01:11-07:00",
+    "duration": 1462,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:07] 6787279576938149636: hey, thanks for making the time. can you hear me okay?\n[00:50] 1363609112261858321: yep all good. what time is it there for you? it's morning here.\n[01:12] 6787279576938149636: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:04] 1363609112261858321: sure. so we're Cadence Software, we're in the saas space. and yeah, our renewal is coming up and the quote came back thirty percent higher, so we're looking around.\n[02:47] 1363609112261858321: only two people on the team actually know how to write the queries we need.\n[03:53] 6787279576938149636: that's a really common story. what are you using today?\n[04:16] 1363609112261858321: right now it's mostly Honeydew. and the tracing is great but the dashboards are weak so we'd still need something else.\n[04:41] 6787279576938149636: got it. and is that something you're actively trying to fix?\n[05:14] 1363609112261858321: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[05:54] 6787279576938149636: got it. and is that something you're actively trying to fix?\n[06:35] 1363609112261858321: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[07:06] 1363609112261858321: we're locked into an annual contract that auto-renews and it's a fight to get out.\n[07:38] 6787279576938149636: makes sense. when you picture this working well, what does that look like?\n[08:01] 1363609112261858321: the single-pane thing is really appealing, we're tired of jumping between tools.\n[09:11] 6787279576938149636: and what would hold you back from moving on this?\n[10:00] 1363609112261858321: we got burned on a migration two years ago so people are nervous about doing it again.\n[11:16] 1363609112261858321: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[11:59] 6787279576938149636: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[12:47] 1363609112261858321: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[13:39] 6787279576938149636: great — here's what I'd suggest as a next step.\n[14:11] 1363609112261858321: works for me.",
+  "speaker_map": {}
+}

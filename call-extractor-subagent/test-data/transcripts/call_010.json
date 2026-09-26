@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "52083945315735",
+    "url": "https://app.callvault.example/call?id=52083945315735",
+    "title": "Ironclad Manufacturing / Skyloom",
+    "scheduled": "2025-12-24T12:00:00+01:00",
+    "started": "2025-12-24T12:01:11+01:00",
+    "duration": 1202,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:11] 6650720286623694324: hey, thanks for making the time. can you hear me okay?\n[00:53] 7634131300651648050: yep all good. what time is it there for you? it's afternoon here.\n[02:06] 6650720286623694324: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in France.\n[02:56] 7634131300651648050: sure. so we're Ironclad Manufacturing, we're in the enterprise it space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[03:44] 7634131300651648050: at our log volume the current tool just falls over, queries time out constantly.\n[05:01] 6650720286623694324: that's a really common story. what are you using today?\n[05:26] 7634131300651648050: right now it's mostly Grafalt. and we self-host it but it's basically two engineers full time just keeping it alive.\n[06:33] 7634131300651648050: we've also looked at Cloud-native tooling a bit.\n[07:48] 6650720286623694324: got it. and is that something you're actively trying to fix?\n[08:33] 7634131300651648050: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[09:21] 6650720286623694324: got it. and is that something you're actively trying to fix?\n[09:52] 7634131300651648050: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[11:00] 6650720286623694324: got it. and is that something you're actively trying to fix?\n[11:30] 7634131300651648050: we have zero visibility into what the actual user experience looks like in the browser.\n[12:43] 6650720286623694324: got it. and is that something you're actively trying to fix?\n[13:38] 7634131300651648050: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[14:15] 7634131300651648050: our mean time to resolve is embarrassing, last outage took us three hours just to localize.\n[15:24] 6650720286623694324: makes sense. when you picture this working well, what does that look like?\n[16:12] 7634131300651648050: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[17:03] 6650720286623694324: and what would hold you back from moving on this?\n[17:58] 7634131300651648050: honestly the concern is whether the team has bandwidth to switch right now.\n[18:33] 7634131300651648050: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[19:10] 6650720286623694324: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[19:53] 7634131300651648050: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[20:17] 6650720286623694324: great — here's what I'd suggest as a next step.\n[21:17] 7634131300651648050: works for me.",
+  "speaker_map": {}
+}

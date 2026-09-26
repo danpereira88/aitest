@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "144917122596909",
+    "url": "https://app.callvault.example/call?id=144917122596909",
+    "title": "Northwind Logistics / Skyloom",
+    "scheduled": "2026-01-22T13:00:00-07:00",
+    "started": "2026-01-22T13:01:11-07:00",
+    "duration": 2158,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:10] 6701043950167879277: hey, thanks for making the time. can you hear me okay?\n[01:05] 1279338125851159892: yep all good. what time is it there for you? it's morning here.\n[01:59] 6701043950167879277: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:32] 1279338125851159892: sure. so we're Northwind Logistics, we're in the enterprise it space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[03:33] 1279338125851159892: last time we instrumented a service it took the team almost a full sprint.\n[04:12] 6701043950167879277: that's a really common story. what are you using today?\n[04:57] 1279338125851159892: right now it's mostly Honeydew. and the tracing is great but the dashboards are weak so we'd still need something else.\n[05:32] 1279338125851159892: we've also looked at Grafalt a bit.\n[06:43] 6701043950167879277: got it. and is that something you're actively trying to fix?\n[07:41] 1279338125851159892: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[08:26] 6701043950167879277: got it. and is that something you're actively trying to fix?\n[09:00] 1279338125851159892: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[09:49] 6701043950167879277: got it. and is that something you're actively trying to fix?\n[10:08] 1279338125851159892: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[11:12] 6701043950167879277: got it. and is that something you're actively trying to fix?\n[11:30] 1279338125851159892: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[12:00] 1279338125851159892: at our log volume the current tool just falls over, queries time out constantly.\n[12:48] 6701043950167879277: makes sense. when you picture this working well, what does that look like?\n[13:29] 1279338125851159892: what caught our eye was the pricing model, it sounds a lot more predictable than what we have.\n[14:19] 6701043950167879277: and what would hold you back from moving on this?\n[15:03] 1279338125851159892: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[15:36] 1279338125851159892: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[16:17] 6701043950167879277: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[17:10] 1279338125851159892: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[17:39] 6701043950167879277: great — here's what I'd suggest as a next step.\n[18:14] 1279338125851159892: works for me.",
+  "speaker_map": {}
+}

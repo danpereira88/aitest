@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "83362290967693",
+    "url": "https://app.callvault.example/call?id=83362290967693",
+    "title": "Ledgerly / Skyloom",
+    "scheduled": "2026-02-20T14:00:00-07:00",
+    "started": "2026-02-20T14:01:11-07:00",
+    "duration": 1103,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:12] 8057331118633054468: hey, thanks for making the time. can you hear me okay?\n[00:40] 2910689493327843266: yep all good. what time is it there for you? it's morning here.\n[01:52] 8057331118633054468: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:21] 2910689493327843266: sure. so we're Ledgerly, we're in the saas space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[03:02] 2910689493327843266: the team just mutes alerts at this point because ninety percent of them are noise.\n[04:11] 8057331118633054468: that's a really common story. what are you using today?\n[04:35] 2910689493327843266: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:45] 2910689493327843266: we've also looked at Newforge a bit.\n[07:02] 8057331118633054468: got it. and is that something you're actively trying to fix?\n[07:55] 2910689493327843266: logs are scattered across four different systems and correlating them during an incident is painful.\n[08:15] 8057331118633054468: got it. and is that something you're actively trying to fix?\n[08:47] 2910689493327843266: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[10:01] 8057331118633054468: got it. and is that something you're actively trying to fix?\n[10:25] 2910689493327843266: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[10:53] 8057331118633054468: got it. and is that something you're actively trying to fix?\n[11:42] 2910689493327843266: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[12:18] 2910689493327843266: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[13:29] 8057331118633054468: makes sense. when you picture this working well, what does that look like?\n[13:55] 2910689493327843266: what caught our eye was the pricing model, it sounds a lot more predictable than what we have.\n[14:22] 8057331118633054468: and what would hold you back from moving on this?\n[15:19] 2910689493327843266: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[16:34] 2910689493327843266: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[16:55] 8057331118633054468: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[17:18] 2910689493327843266: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[17:38] 8057331118633054468: great — here's what I'd suggest as a next step.\n[18:15] 2910689493327843266: works for me.",
+  "speaker_map": {}
+}

@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "264154296983942",
+    "url": "https://app.callvault.example/call?id=264154296983942",
+    "title": "Settlehub / Skyloom",
+    "scheduled": "2025-12-30T14:00:00+08:00",
+    "started": "2025-12-30T14:01:11+08:00",
+    "duration": 1059,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:10] 6201162714032946862: hey, thanks for making the time. can you hear me okay?\n[01:08] 6153994427991578210: yep all good. what time is it there for you? it's afternoon here.\n[02:19] 6201162714032946862: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Singapore.\n[02:53] 6153994427991578210: sure. so we're Settlehub, we're in the fintech space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[03:59] 6153994427991578210: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[04:20] 6201162714032946862: that's a really common story. what are you using today?\n[05:00] 6153994427991578210: right now it's mostly Splunkr. and the query language has a huge learning curve and log ingestion pricing is brutal at our volume.\n[05:36] 6201162714032946862: got it. and is that something you're actively trying to fix?\n[05:51] 6153994427991578210: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[06:58] 6201162714032946862: got it. and is that something you're actively trying to fix?\n[07:26] 6153994427991578210: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[08:23] 6201162714032946862: got it. and is that something you're actively trying to fix?\n[08:42] 6153994427991578210: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[09:04] 6201162714032946862: got it. and is that something you're actively trying to fix?\n[09:46] 6153994427991578210: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[10:28] 6153994427991578210: only two people on the team actually know how to write the queries we need.\n[11:32] 6201162714032946862: makes sense. when you picture this working well, what does that look like?\n[11:51] 6153994427991578210: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[12:45] 6201162714032946862: and what would hold you back from moving on this?\n[13:03] 6153994427991578210: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[14:22] 6153994427991578210: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[15:39] 6201162714032946862: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:58] 6153994427991578210: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[17:17] 6201162714032946862: great — here's what I'd suggest as a next step.\n[18:02] 6153994427991578210: works for me.",
+  "speaker_map": {}
+}

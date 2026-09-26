@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "188405590044919",
+    "url": "https://app.callvault.example/call?id=188405590044919",
+    "title": "Unknown / Skyloom",
+    "scheduled": "2026-02-24T09:00:00-07:00",
+    "started": "2026-02-24T09:00:00-07:00",
+    "duration": 144,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:05] 3920683632026877451: hi? ... hello? ... okay doesn't sound like anyone's here, I'll follow up by email.",
+  "speaker_map": {}
+}

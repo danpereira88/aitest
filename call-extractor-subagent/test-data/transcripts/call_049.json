@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "276193834484119",
+    "url": "https://app.callvault.example/call?id=276193834484119",
+    "title": "Riftplay / Skyloom",
+    "scheduled": "2026-01-05T09:00:00+01:00",
+    "started": "2026-01-05T09:01:11+01:00",
+    "duration": 1605,
+    "language": "spa",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:08] 3239974447537679964: hey, thanks for making the time. can you hear me okay?\n[01:04] 2875450333351077126: sí, todo bien. what time is it there for you? it's afternoon here.\n[01:29] 3239974447537679964: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in France.\n[02:12] 2875450333351077126: sure. so we're Riftplay, we're in the gaming space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[03:26] 2875450333351077126: the team just mutes alerts at this point because ninety percent of them are noise.\n[04:09] 3239974447537679964: that's a really common story. what are you using today?\n[04:29] 2875450333351077126: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:23] 2875450333351077126: we've also looked at Newforge a bit.\n[06:29] 3239974447537679964: got it. and is that something you're actively trying to fix?\n[06:56] 2875450333351077126: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[07:19] 3239974447537679964: got it. and is that something you're actively trying to fix?\n[07:51] 2875450333351077126: we have zero visibility into what the actual user experience looks like in the browser.\n[08:35] 3239974447537679964: got it. and is that something you're actively trying to fix?\n[09:33] 2875450333351077126: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[10:31] 3239974447537679964: got it. and is that something you're actively trying to fix?\n[11:24] 2875450333351077126: logs are scattered across four different systems and correlating them during an incident is painful.\n[11:46] 2875450333351077126: we're running like five different tools and none of them talk to each other.\n[13:01] 3239974447537679964: makes sense. when you picture this working well, what does that look like?\n[13:20] 2875450333351077126: the single-pane thing is really appealing, we're tired of jumping between tools.\n[13:52] 3239974447537679964: and what would hold you back from moving on this?\n[14:44] 2875450333351077126: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[15:50] 2875450333351077126: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[16:52] 3239974447537679964: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[17:42] 2875450333351077126: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[18:15] 3239974447537679964: great — here's what I'd suggest as a next step.\n[19:00] 2875450333351077126: me parece bien.",
+  "speaker_map": {}
+}

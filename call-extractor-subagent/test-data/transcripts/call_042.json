@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "118080108278969",
+    "url": "https://app.callvault.example/call?id=118080108278969",
+    "title": "Payline Go / Skyloom",
+    "scheduled": "2025-12-14T16:00:00+01:00",
+    "started": "2025-12-14T16:01:11+01:00",
+    "duration": 1976,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:10] 2911800211172516681: hey, thanks for making the time. can you hear me okay?\n[00:45] 7502369026393739285: yep all good. what time is it there for you? it's afternoon here.\n[01:35] 2911800211172516681: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Germany.\n[02:12] 7502369026393739285: sure. so we're Payline Go, we're in the fintech space. and yeah, our new VP of Engineering came in and wants observability sorted in the first quarter.\n[03:07] 7502369026393739285: we're running like five different tools and none of them talk to each other.\n[04:26] 2911800211172516681: that's a really common story. what are you using today?\n[04:58] 7502369026393739285: right now it's mostly Honeydew. and the tracing is great but the dashboards are weak so we'd still need something else.\n[05:36] 7502369026393739285: we've also looked at Datazen a bit.\n[06:03] 2911800211172516681: got it. and is that something you're actively trying to fix?\n[06:54] 7502369026393739285: logs are scattered across four different systems and correlating them during an incident is painful.\n[07:57] 2911800211172516681: got it. and is that something you're actively trying to fix?\n[08:46] 7502369026393739285: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[09:30] 2911800211172516681: got it. and is that something you're actively trying to fix?\n[10:10] 7502369026393739285: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[11:22] 7502369026393739285: last time we instrumented a service it took the team almost a full sprint.\n[12:04] 2911800211172516681: makes sense. when you picture this working well, what does that look like?\n[12:28] 7502369026393739285: the single-pane thing is really appealing, we're tired of jumping between tools.\n[13:06] 2911800211172516681: and what would hold you back from moving on this?\n[13:23] 7502369026393739285: honestly the concern is whether the team has bandwidth to switch right now.\n[14:01] 7502369026393739285: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[15:06] 2911800211172516681: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:26] 7502369026393739285: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[16:08] 2911800211172516681: great — here's what I'd suggest as a next step.\n[16:51] 7502369026393739285: works for me.",
+  "speaker_map": {}
+}

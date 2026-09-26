@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "231765471550031",
+    "url": "https://app.callvault.example/call?id=231765471550031",
+    "title": "Parsely Systems / Skyloom",
+    "scheduled": "2025-12-16T14:00:00-07:00",
+    "started": "2025-12-16T14:01:11-07:00",
+    "duration": 912,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:05] 6499193724993654702: hey, thanks for making the time. can you hear me okay?\n[00:59] 2434971367210993056: yep all good. what time is it there for you? it's morning here.\n[01:22] 6499193724993654702: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:20] 2434971367210993056: sure. so we're Parsely Systems, we're in the saas space. and yeah, our new VP of Engineering came in and wants observability sorted in the first quarter.\n[02:45] 2434971367210993056: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:22] 6499193724993654702: that's a really common story. what are you using today?\n[04:05] 2434971367210993056: right now it's mostly Grafalt. and we self-host it but it's basically two engineers full time just keeping it alive.\n[05:07] 6499193724993654702: got it. and is that something you're actively trying to fix?\n[05:49] 2434971367210993056: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[06:40] 6499193724993654702: got it. and is that something you're actively trying to fix?\n[07:33] 2434971367210993056: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[08:21] 2434971367210993056: at our log volume the current tool just falls over, queries time out constantly.\n[09:07] 6499193724993654702: makes sense. when you picture this working well, what does that look like?\n[09:39] 2434971367210993056: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[10:12] 6499193724993654702: and what would hold you back from moving on this?\n[10:59] 2434971367210993056: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[11:26] 2434971367210993056: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[12:08] 6499193724993654702: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[12:50] 2434971367210993056: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[13:17] 6499193724993654702: great — here's what I'd suggest as a next step.\n[13:50] 2434971367210993056: works for me.",
+  "speaker_map": {}
+}

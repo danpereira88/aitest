@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "121834653528108",
+    "url": "https://app.callvault.example/call?id=121834653528108",
+    "title": "Parsely Systems / Skyloom",
+    "scheduled": "2026-01-08T09:00:00-07:00",
+    "started": "2026-01-08T09:00:00-07:00",
+    "duration": 76,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:04] 2321344222771705657: hey just calling to confirm we're still good for Thursday?\n[00:12] 7089384789458455379: yeah Thursday works, talk then.\n[00:18] 2321344222771705657: perfect, bye.",
+  "speaker_map": {}
+}

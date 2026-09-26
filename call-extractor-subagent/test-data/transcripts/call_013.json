@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "275312915798336",
+    "url": "https://app.callvault.example/call?id=275312915798336",
+    "title": "Streampine / Skyloom",
+    "scheduled": "2026-01-10T15:00:00+08:00",
+    "started": "2026-01-10T15:01:11+08:00",
+    "duration": 2254,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:10] 5963768942879051798: hey, thanks for making the time. can you hear me okay?\n[00:52] 5459477393011042019: yep all good. what time is it there for you? it's afternoon here.\n[02:04] 5963768942879051798: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Singapore.\n[02:56] 5459477393011042019: sure. so we're Streampine, we're in the media space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[03:33] 5459477393011042019: only two people on the team actually know how to write the queries we need.\n[04:13] 5963768942879051798: that's a really common story. what are you using today?\n[04:43] 5459477393011042019: right now it's mostly Cloud-native tooling. and we just use the cloud provider's built-in stuff but it's siloed per account and we're flying blind across services.\n[05:56] 5963768942879051798: got it. and is that something you're actively trying to fix?\n[06:16] 5459477393011042019: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[06:53] 5963768942879051798: got it. and is that something you're actively trying to fix?\n[07:36] 5459477393011042019: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[08:11] 5963768942879051798: got it. and is that something you're actively trying to fix?\n[08:55] 5459477393011042019: logs are scattered across four different systems and correlating them during an incident is painful.\n[09:51] 5459477393011042019: at our log volume the current tool just falls over, queries time out constantly.\n[10:50] 5963768942879051798: makes sense. when you picture this working well, what does that look like?\n[11:47] 5459477393011042019: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[12:31] 5963768942879051798: and what would hold you back from moving on this?\n[13:07] 5459477393011042019: honestly the concern is whether the team has bandwidth to switch right now.\n[13:28] 5459477393011042019: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[14:19] 5963768942879051798: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:54] 5459477393011042019: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[15:25] 5963768942879051798: great — here's what I'd suggest as a next step.\n[16:11] 5459477393011042019: works for me.",
+  "speaker_map": {}
+}

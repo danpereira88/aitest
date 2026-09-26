@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "240967703257496",
+    "url": "https://app.callvault.example/call?id=240967703257496",
+    "title": "Cogwheel / Skyloom",
+    "scheduled": "2025-11-12T09:00:00+01:00",
+    "started": "2025-11-12T09:01:11+01:00",
+    "duration": 1239,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:12] 7200703155341579793: hey, thanks for making the time. can you hear me okay?\n[00:29] 3485800454521924007: yep all good. what time is it there for you? it's afternoon here.\n[01:37] 7200703155341579793: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Netherlands.\n[02:03] 3485800454521924007: sure. so we're Cogwheel, we're in the saas space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[02:53] 3485800454521924007: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:46] 7200703155341579793: that's a really common story. what are you using today?\n[04:42] 3485800454521924007: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:30] 3485800454521924007: we've also looked at Grafalt and Datazen a bit.\n[06:48] 7200703155341579793: got it. and is that something you're actively trying to fix?\n[07:20] 3485800454521924007: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[07:51] 7200703155341579793: got it. and is that something you're actively trying to fix?\n[08:43] 3485800454521924007: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[09:30] 7200703155341579793: got it. and is that something you're actively trying to fix?\n[10:25] 3485800454521924007: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[11:37] 3485800454521924007: at our log volume the current tool just falls over, queries time out constantly.\n[12:28] 7200703155341579793: makes sense. when you picture this working well, what does that look like?\n[12:48] 3485800454521924007: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[13:38] 7200703155341579793: and what would hold you back from moving on this?\n[14:15] 3485800454521924007: we got burned on a migration two years ago so people are nervous about doing it again.\n[15:01] 3485800454521924007: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[15:42] 7200703155341579793: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:17] 3485800454521924007: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[17:19] 7200703155341579793: great — here's what I'd suggest as a next step.\n[17:40] 3485800454521924007: works for me.",
+  "speaker_map": {}
+}

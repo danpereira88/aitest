@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "220128901145790",
+    "url": "https://app.callvault.example/call?id=220128901145790",
+    "title": "Openfield / Skyloom",
+    "scheduled": "2025-12-03T14:00:00+08:00",
+    "started": "2025-12-03T14:01:11+08:00",
+    "duration": 2488,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:09] 3405216642568486089: hey, thanks for making the time. can you hear me okay?\n[00:42] 6341650635270069592: yep all good. what time is it there for you? it's afternoon here.\n[01:11] 3405216642568486089: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Australia.\n[01:38] 6341650635270069592: sure. so we're Openfield, we're in the other space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[02:19] 6341650635270069592: the team just mutes alerts at this point because ninety percent of them are noise.\n[02:53] 3405216642568486089: that's a really common story. what are you using today?\n[03:32] 6341650635270069592: right now it's mostly Honeydew. and the tracing is great but the dashboards are weak so we'd still need something else.\n[04:28] 6341650635270069592: we've also looked at Splunkr a bit.\n[05:41] 3405216642568486089: got it. and is that something you're actively trying to fix?\n[06:11] 6341650635270069592: we have zero visibility into what the actual user experience looks like in the browser.\n[07:02] 3405216642568486089: got it. and is that something you're actively trying to fix?\n[07:52] 6341650635270069592: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[08:53] 3405216642568486089: got it. and is that something you're actively trying to fix?\n[09:51] 6341650635270069592: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[10:32] 6341650635270069592: we're running like five different tools and none of them talk to each other.\n[11:08] 3405216642568486089: makes sense. when you picture this working well, what does that look like?\n[11:54] 6341650635270069592: the single-pane thing is really appealing, we're tired of jumping between tools.\n[13:00] 3405216642568486089: and what would hold you back from moving on this?\n[13:56] 6341650635270069592: we got burned on a migration two years ago so people are nervous about doing it again.\n[15:03] 6341650635270069592: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[15:54] 3405216642568486089: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:38] 6341650635270069592: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[17:08] 3405216642568486089: great — here's what I'd suggest as a next step.\n[17:45] 6341650635270069592: works for me.",
+  "speaker_map": {}
+}

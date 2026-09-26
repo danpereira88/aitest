@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "113233772090154",
+    "url": "https://app.callvault.example/call?id=113233772090154",
+    "title": "Vitalsync / Skyloom",
+    "scheduled": "2025-12-19T09:00:00+01:00",
+    "started": "2025-12-19T09:01:11+01:00",
+    "duration": 1642,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:05] 8112121972890162422: hey, thanks for making the time. can you hear me okay?\n[00:48] 8462111216801873407: yep all good. what time is it there for you? it's afternoon here.\n[01:10] 8112121972890162422: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in France.\n[01:51] 8462111216801873407: sure. so we're Vitalsync, we're in the healthtech space. and yeah, we just closed our Series B so we finally have budget to do this properly.\n[02:34] 8462111216801873407: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:37] 8112121972890162422: that's a really common story. what are you using today?\n[04:07] 8462111216801873407: right now it's mostly Splunkr. and the query language has a huge learning curve and log ingestion pricing is brutal at our volume.\n[04:55] 8112121972890162422: got it. and is that something you're actively trying to fix?\n[05:49] 8462111216801873407: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[06:27] 8112121972890162422: got it. and is that something you're actively trying to fix?\n[07:10] 8462111216801873407: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[07:44] 8112121972890162422: got it. and is that something you're actively trying to fix?\n[08:33] 8462111216801873407: logs are scattered across four different systems and correlating them during an incident is painful.\n[09:08] 8462111216801873407: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[09:47] 8112121972890162422: makes sense. when you picture this working well, what does that look like?\n[10:32] 8462111216801873407: what caught our eye was the pricing model, it sounds a lot more predictable than what we have.\n[11:49] 8112121972890162422: and what would hold you back from moving on this?\n[12:16] 8462111216801873407: we got burned on a migration two years ago so people are nervous about doing it again.\n[12:59] 8462111216801873407: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[14:02] 8112121972890162422: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:53] 8462111216801873407: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[15:41] 8112121972890162422: great — here's what I'd suggest as a next step.\n[16:25] 8462111216801873407: works for me.",
+  "speaker_map": {}
+}

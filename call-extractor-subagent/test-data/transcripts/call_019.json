@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "244675379816070",
+    "url": "https://app.callvault.example/call?id=244675379816070",
+    "title": "Brightfold / Skyloom",
+    "scheduled": "2026-01-16T16:00:00-07:00",
+    "started": "2026-01-16T16:01:11-07:00",
+    "duration": 2672,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:05] 4516236720233807471: hey, thanks for making the time. can you hear me okay?\n[00:51] 8308541478729908948: yep all good. what time is it there for you? it's morning here.\n[01:13] 4516236720233807471: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[01:36] 8308541478729908948: sure. so we're Brightfold, we're in the saas space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[02:28] 8308541478729908948: the team just mutes alerts at this point because ninety percent of them are noise.\n[03:25] 4516236720233807471: that's a really common story. what are you using today?\n[04:01] 8308541478729908948: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:16] 8308541478729908948: we've also looked at Newforge a bit.\n[05:42] 4516236720233807471: got it. and is that something you're actively trying to fix?\n[06:25] 8308541478729908948: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[06:51] 4516236720233807471: got it. and is that something you're actively trying to fix?\n[07:39] 8308541478729908948: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[08:57] 8308541478729908948: our mean time to resolve is embarrassing, last outage took us three hours just to localize.\n[09:46] 4516236720233807471: makes sense. when you picture this working well, what does that look like?\n[10:01] 8308541478729908948: the single-pane thing is really appealing, we're tired of jumping between tools.\n[11:07] 4516236720233807471: and what would hold you back from moving on this?\n[11:31] 8308541478729908948: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[12:17] 8308541478729908948: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[13:32] 4516236720233807471: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:28] 8308541478729908948: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[14:57] 4516236720233807471: great — here's what I'd suggest as a next step.\n[15:16] 8308541478729908948: works for me.",
+  "speaker_map": {}
+}

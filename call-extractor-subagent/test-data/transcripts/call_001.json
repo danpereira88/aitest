@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "182548401168979",
+    "url": "https://app.callvault.example/call?id=182548401168979",
+    "title": "Moonshot Games / Skyloom",
+    "scheduled": "2026-02-24T14:00:00-07:00",
+    "started": "2026-02-24T14:01:11-07:00",
+    "duration": 2082,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:05] 5926570769079582209: hey, thanks for making the time. can you hear me okay?\n[00:49] 3257982254735691220: yep all good. what time is it there for you? it's morning here.\n[01:33] 5926570769079582209: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:05] 3257982254735691220: sure. so we're Moonshot Games, we're in the gaming space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:24] 3257982254735691220: at our log volume the current tool just falls over, queries time out constantly.\n[04:24] 5926570769079582209: that's a really common story. what are you using today?\n[05:23] 3257982254735691220: right now it's mostly Cloud-native tooling. and we just use the cloud provider's built-in stuff but it's siloed per account and we're flying blind across services.\n[06:18] 3257982254735691220: we've also looked at Datazen and Grafalt a bit.\n[06:52] 5926570769079582209: got it. and is that something you're actively trying to fix?\n[07:50] 3257982254735691220: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[08:30] 5926570769079582209: got it. and is that something you're actively trying to fix?\n[08:48] 3257982254735691220: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[09:22] 3257982254735691220: we can only keep seven days of logs on our current plan and that's not enough for audits.\n[10:34] 5926570769079582209: makes sense. when you picture this working well, what does that look like?\n[10:51] 3257982254735691220: the single-pane thing is really appealing, we're tired of jumping between tools.\n[12:02] 5926570769079582209: and what would hold you back from moving on this?\n[12:37] 3257982254735691220: we got burned on a migration two years ago so people are nervous about doing it again.\n[13:22] 3257982254735691220: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[13:59] 5926570769079582209: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[14:18] 3257982254735691220: yeah that'd be helpful. timeline-wise we'd want to move fast.\n[14:51] 5926570769079582209: great — here's what I'd suggest as a next step.\n[15:42] 3257982254735691220: works for me.",
+  "speaker_map": {}
+}

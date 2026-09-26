@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "26335569898520",
+    "url": "https://app.callvault.example/call?id=26335569898520",
+    "title": "Nimbus Labs / Skyloom",
+    "scheduled": "2026-01-07T12:00:00-07:00",
+    "started": "2026-01-07T12:01:11-07:00",
+    "duration": 2489,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:08] 6760196711822482323: hey, thanks for making the time. can you hear me okay?\n[00:32] 8971270457347130977: yep all good. what time is it there for you? it's morning here.\n[01:20] 6760196711822482323: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[01:39] 8971270457347130977: sure. so we're Nimbus Labs, we're in the saas space. and yeah, our renewal is coming up and the quote came back thirty percent higher, so we're looking around.\n[02:29] 8971270457347130977: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:17] 6760196711822482323: that's a really common story. what are you using today?\n[04:12] 8971270457347130977: right now it's mostly Splunkr. and the query language has a huge learning curve and log ingestion pricing is brutal at our volume.\n[04:51] 8971270457347130977: we've also looked at Grafalt a bit.\n[06:01] 6760196711822482323: got it. and is that something you're actively trying to fix?\n[06:33] 8971270457347130977: logs are scattered across four different systems and correlating them during an incident is painful.\n[07:30] 6760196711822482323: got it. and is that something you're actively trying to fix?\n[07:48] 8971270457347130977: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[08:30] 6760196711822482323: got it. and is that something you're actively trying to fix?\n[09:17] 8971270457347130977: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[09:41] 8971270457347130977: the team just mutes alerts at this point because ninety percent of them are noise.\n[10:20] 6760196711822482323: makes sense. when you picture this working well, what does that look like?\n[11:04] 8971270457347130977: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[11:52] 6760196711822482323: and what would hold you back from moving on this?\n[12:09] 8971270457347130977: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[12:32] 8971270457347130977: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[13:15] 6760196711822482323: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:48] 8971270457347130977: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[14:12] 6760196711822482323: great — here's what I'd suggest as a next step.\n[15:08] 8971270457347130977: works for me.",
+  "speaker_map": {}
+}

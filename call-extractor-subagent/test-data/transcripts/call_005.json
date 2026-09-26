@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "145511640255174",
+    "url": "https://app.callvault.example/call?id=145511640255174",
+    "title": "Internal — Cartwheel deal review",
+    "scheduled": "2025-11-13T09:00:00-07:00",
+    "started": "2025-11-13T09:00:00-07:00",
+    "duration": 1471,
+    "language": "eng",
+    "scope": "Internal",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:05] 1524621459789546213: okay so on the Cartwheel deal — where are we?\n[00:30] 5683891161603349282: they're deep in eval, they're comparing us against Datazen. main risk is the migration story.\n[01:10] 1524621459789546213: what's their objection?\n[01:22] 5683891161603349282: mostly bandwidth, they're worried the team can't take on a switch this quarter.\n[02:00] 1524621459789546213: okay let's get them the migration effort estimate and a reference customer.",
+  "speaker_map": {}
+}

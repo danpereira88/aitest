@@ -1,0 +1,19 @@
+{
+  "call": {
+    "id": "7213433619135",
+    "url": "https://app.callvault.example/call?id=7213433619135",
+    "title": "Quillstack / Skyloom",
+    "scheduled": "2025-12-09T12:00:00+01:00",
+    "started": "2025-12-09T12:01:11+01:00",
+    "duration": 2369,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:03] 1694002050486486088: hey, thanks for making the time. can you hear me okay?\n[00:41] 6032182271036648443: yep all good. what time is it there for you? it's afternoon here.\n[01:38] 1694002050486486088: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Germany.\n[02:28] 6032182271036648443: sure. so we're Quillstack, we're in the saas space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[02:57] 6032182271036648443: the team just mutes alerts at this point because ninety percent of them are noise.\n[03:44] 1694002050486486088: that's a really common story. what are you using today?\n[04:07] 6032182271036648443: right now it's mostly Honeydew. and the tracing is great but the dashboards are weak so we'd still need something else.\n[04:29] 6032182271036648443: we've also looked at Datazen a bit.\n[05:08] 1694002050486486088: got it. and is that something you're actively trying to fix?\n[05:46] 6032182271036648443: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[07:03] 1694002050486486088: got it. and is that something you're actively trying to fix?\n[07:20] 6032182271036648443: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[08:37] 1694002050486486088: got it. and is that something you're actively trying to fix?\n[09:14] 6032182271036648443: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[09:47] 6032182271036648443: we're locked into an annual contract that auto-renews and it's a fight to get out.\n[10:50] 1694002050486486088: makes sense. when you picture this working well, what does that look like?\n[11:20] 6032182271036648443: the single-pane thing is really appealing, we're tired of jumping between tools.\n[12:22] 1694002050486486088: and what would hold you back from moving on this?\n[12:43] 6032182271036648443: we got burned on a migration two years ago so people are nervous about doing it again.\n[13:25] 6032182271036648443: the current tool works okay, that's part of the problem, it's good enough to be hard to leave.\n[14:34] 1694002050486486088: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:24] 6032182271036648443: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[16:40] 1694002050486486088: great — here's what I'd suggest as a next step.\n[17:21] 6032182271036648443: works for me.",
+  "speaker_map": {
+    "1694002050486486088": "Elena Costa",
+    "6032182271036648443": "Riya (Quillstack)"
+  }
+}

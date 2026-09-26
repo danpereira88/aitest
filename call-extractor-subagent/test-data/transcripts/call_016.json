@@ -1,0 +1,19 @@
+{
+  "call": {
+    "id": "144294999928419",
+    "url": "https://app.callvault.example/call?id=144294999928419",
+    "title": "Pulsewell / Skyloom",
+    "scheduled": "2025-11-22T13:00:00-07:00",
+    "started": "2025-11-22T13:01:11-07:00",
+    "duration": 1074,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:04] 6769357847950366349: hey, thanks for making the time. can you hear me okay?\n[00:29] 3440929661543628628: yep all good. what time is it there for you? it's morning here.\n[01:04] 6769357847950366349: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[01:30] 3440929661543628628: sure. so we're Pulsewell, we're in the healthtech space. and yeah, we just closed our Series B so we finally have budget to do this properly.\n[02:25] 3440929661543628628: our mean time to resolve is embarrassing, last outage took us three hours just to localize.\n[02:49] 6769357847950366349: that's a really common story. what are you using today?\n[03:14] 3440929661543628628: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[03:34] 3440929661543628628: we've also looked at Grafalt a bit.\n[04:20] 6769357847950366349: got it. and is that something you're actively trying to fix?\n[05:03] 3440929661543628628: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[06:07] 6769357847950366349: got it. and is that something you're actively trying to fix?\n[07:00] 3440929661543628628: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[07:50] 3440929661543628628: at our log volume the current tool just falls over, queries time out constantly.\n[08:28] 6769357847950366349: makes sense. when you picture this working well, what does that look like?\n[08:45] 3440929661543628628: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[09:19] 6769357847950366349: and what would hold you back from moving on this?\n[09:52] 3440929661543628628: we got burned on a migration two years ago so people are nervous about doing it again.\n[10:57] 3440929661543628628: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[11:35] 6769357847950366349: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[12:34] 3440929661543628628: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[13:49] 6769357847950366349: great — here's what I'd suggest as a next step.\n[14:33] 3440929661543628628: works for me.",
+  "speaker_map": {
+    "6769357847950366349": "Marcus Webb",
+    "3440929661543628628": "Tom (Pulsewell)"
+  }
+}

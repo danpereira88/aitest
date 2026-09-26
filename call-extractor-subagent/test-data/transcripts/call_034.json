@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "263696215842073",
+    "url": "https://app.callvault.example/call?id=263696215842073",
+    "title": "Brightfold / Skyloom",
+    "scheduled": "2025-12-12T15:00:00+08:00",
+    "started": "2025-12-12T15:01:11+08:00",
+    "duration": 2569,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:11] 7383205136458001593: hey, thanks for making the time. can you hear me okay?\n[00:43] 4388177334038016355: yep all good. what time is it there for you? it's afternoon here.\n[01:54] 7383205136458001593: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Singapore.\n[02:14] 4388177334038016355: sure. so we're Brightfold, we're in the saas space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:20] 4388177334038016355: the team just mutes alerts at this point because ninety percent of them are noise.\n[04:07] 7383205136458001593: that's a really common story. what are you using today?\n[04:27] 4388177334038016355: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:14] 7383205136458001593: got it. and is that something you're actively trying to fix?\n[06:07] 4388177334038016355: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[07:19] 7383205136458001593: got it. and is that something you're actively trying to fix?\n[07:45] 4388177334038016355: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[08:39] 7383205136458001593: got it. and is that something you're actively trying to fix?\n[09:12] 4388177334038016355: when something breaks at 2am it takes us forever to even figure out which service is the problem.\n[09:52] 7383205136458001593: got it. and is that something you're actively trying to fix?\n[10:13] 4388177334038016355: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[10:38] 4388177334038016355: at our log volume the current tool just falls over, queries time out constantly.\n[11:18] 7383205136458001593: makes sense. when you picture this working well, what does that look like?\n[12:15] 4388177334038016355: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[12:53] 7383205136458001593: and what would hold you back from moving on this?\n[13:27] 4388177334038016355: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[14:15] 4388177334038016355: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[15:13] 7383205136458001593: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:13] 4388177334038016355: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[17:00] 7383205136458001593: great — here's what I'd suggest as a next step.\n[17:25] 4388177334038016355: works for me.",
+  "speaker_map": {}
+}

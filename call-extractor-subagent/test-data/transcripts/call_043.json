@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "85986469938141",
+    "url": "https://app.callvault.example/call?id=85986469938141",
+    "title": "Internal — Ironclad Manufacturing deal review",
+    "scheduled": "2025-12-04T09:00:00-07:00",
+    "started": "2025-12-04T09:00:00-07:00",
+    "duration": 651,
+    "language": "eng",
+    "scope": "Internal",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:05] 7833513091949200014: okay so on the Ironclad Manufacturing deal — where are we?\n[00:30] 3206987566253245975: they're deep in eval, they're comparing us against Datazen. main risk is the migration story.\n[01:10] 7833513091949200014: what's their objection?\n[01:22] 3206987566253245975: mostly bandwidth, they're worried the team can't take on a switch this quarter.\n[02:00] 7833513091949200014: okay let's get them the migration effort estimate and a reference customer.",
+  "speaker_map": {}
+}

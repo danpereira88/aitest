@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "68996915330966",
+    "url": "https://app.callvault.example/call?id=68996915330966",
+    "title": "Cogwheel / Skyloom",
+    "scheduled": "2026-01-18T09:00:00-07:00",
+    "started": "2026-01-18T09:01:11-07:00",
+    "duration": 2168,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Zoom"
+  },
+  "transcript_text": "[00:04] 6192699792540218818: hey, thanks for making the time. can you hear me okay?\n[00:53] 1922164297734303053: yep all good. what time is it there for you? it's morning here.\n[01:26] 6192699792540218818: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[02:13] 1922164297734303053: sure. so we're Cogwheel, we're in the saas space. and yeah, we've got a SOC 2 audit in Q2 and our current retention won't pass.\n[02:49] 1922164297734303053: we're locked into an annual contract that auto-renews and it's a fight to get out.\n[03:17] 6192699792540218818: that's a really common story. what are you using today?\n[03:54] 1922164297734303053: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:10] 6192699792540218818: got it. and is that something you're actively trying to fix?\n[05:29] 1922164297734303053: we have zero visibility into what the actual user experience looks like in the browser.\n[06:45] 6192699792540218818: got it. and is that something you're actively trying to fix?\n[07:15] 1922164297734303053: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[07:58] 1922164297734303053: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[08:36] 6192699792540218818: makes sense. when you picture this working well, what does that look like?\n[09:01] 1922164297734303053: your tracing demo looked genuinely better than what we're used to.\n[09:49] 6192699792540218818: and what would hold you back from moving on this?\n[10:38] 1922164297734303053: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[11:43] 1922164297734303053: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[12:22] 6192699792540218818: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:16] 1922164297734303053: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[14:27] 6192699792540218818: great — here's what I'd suggest as a next step.\n[15:23] 1922164297734303053: works for me.",
+  "speaker_map": {}
+}

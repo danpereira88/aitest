@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "239316226525831",
+    "url": "https://app.callvault.example/call?id=239316226525831",
+    "title": "Cadence Software / Skyloom",
+    "scheduled": "2026-01-18T09:00:00-07:00",
+    "started": "2026-01-18T09:01:11-07:00",
+    "duration": 2194,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:08] 1401534209599653328: hey, thanks for making the time. can you hear me okay?\n[00:39] 4568350310755422763: yep all good. what time is it there for you? it's morning here.\n[01:46] 1401534209599653328: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in United States.\n[02:02] 4568350310755422763: sure. so we're Cadence Software, we're in the saas space. and yeah, we just closed our Series B so we finally have budget to do this properly.\n[02:44] 4568350310755422763: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:54] 1401534209599653328: that's a really common story. what are you using today?\n[04:13] 4568350310755422763: right now it's mostly Grafalt. and we self-host it but it's basically two engineers full time just keeping it alive.\n[04:55] 1401534209599653328: got it. and is that something you're actively trying to fix?\n[05:25] 4568350310755422763: we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards.\n[06:31] 1401534209599653328: got it. and is that something you're actively trying to fix?\n[07:28] 4568350310755422763: we moved everything to Kubernetes last year and our old tool just doesn't give us pod-level visibility.\n[08:28] 1401534209599653328: got it. and is that something you're actively trying to fix?\n[08:49] 4568350310755422763: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[09:58] 1401534209599653328: got it. and is that something you're actively trying to fix?\n[10:50] 4568350310755422763: we've got like 80 microservices now and no real tracing, so debugging cross-service issues is guesswork.\n[11:57] 4568350310755422763: we're running like five different tools and none of them talk to each other.\n[13:05] 1401534209599653328: makes sense. when you picture this working well, what does that look like?\n[13:41] 4568350310755422763: your tracing demo looked genuinely better than what we're used to.\n[14:09] 1401534209599653328: and what would hold you back from moving on this?\n[14:26] 4568350310755422763: my worry is migration, we've got years of dashboards and runbooks built on the current tool.\n[15:08] 4568350310755422763: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[16:02] 1401534209599653328: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[16:38] 4568350310755422763: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[17:50] 1401534209599653328: great — here's what I'd suggest as a next step.\n[18:46] 4568350310755422763: works for me.",
+  "speaker_map": {}
+}

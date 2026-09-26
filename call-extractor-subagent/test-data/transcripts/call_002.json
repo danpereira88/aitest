@@ -1,0 +1,19 @@
+{
+  "call": {
+    "id": "64411550160334",
+    "url": "https://app.callvault.example/call?id=64411550160334",
+    "title": "Cogwheel / Skyloom",
+    "scheduled": "2025-12-27T15:00:00+01:00",
+    "started": "2025-12-27T15:01:11+01:00",
+    "duration": 1641,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:11] 7274506946702764944: hey, thanks for making the time. can you hear me okay?\n[00:43] 2056553320732244409: yep all good. what time is it there for you? it's afternoon here.\n[01:52] 7274506946702764944: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Netherlands.\n[02:48] 2056553320732244409: sure. so we're Cogwheel, we're in the saas space. and yeah, we had a really bad outage last month that made it to the exec team, so now there's budget.\n[03:29] 2056553320732244409: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[03:56] 7274506946702764944: that's a really common story. what are you using today?\n[04:29] 2056553320732244409: right now it's mostly Splunkr. and the query language has a huge learning curve and log ingestion pricing is brutal at our volume.\n[05:16] 2056553320732244409: we've also looked at Newforge a bit.\n[05:46] 7274506946702764944: got it. and is that something you're actively trying to fix?\n[06:30] 2056553320732244409: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[06:50] 7274506946702764944: got it. and is that something you're actively trying to fix?\n[07:21] 2056553320732244409: leadership wants us reporting on SLOs now and we don't have a clean way to measure them.\n[08:13] 2056553320732244409: the team just mutes alerts at this point because ninety percent of them are noise.\n[09:21] 7274506946702764944: makes sense. when you picture this working well, what does that look like?\n[09:47] 2056553320732244409: the fact that setup is supposedly quick matters a lot to us, we don't have spare cycles.\n[10:39] 7274506946702764944: and what would hold you back from moving on this?\n[11:00] 2056553320732244409: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[12:15] 2056553320732244409: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[13:15] 7274506946702764944: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[13:49] 2056553320732244409: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[15:02] 7274506946702764944: great — here's what I'd suggest as a next step.\n[15:57] 2056553320732244409: works for me.",
+  "speaker_map": {
+    "7274506946702764944": "Sarah Okonkwo",
+    "2056553320732244409": "Mei (Cogwheel)"
+  }
+}

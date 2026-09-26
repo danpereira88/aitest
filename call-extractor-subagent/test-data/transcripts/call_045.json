@@ -1,0 +1,16 @@
+{
+  "call": {
+    "id": "1285749492810",
+    "url": "https://app.callvault.example/call?id=1285749492810",
+    "title": "Vantage Wallet / Skyloom",
+    "scheduled": "2026-01-07T14:00:00+01:00",
+    "started": "2026-01-07T14:01:11+01:00",
+    "duration": 1077,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Teams"
+  },
+  "transcript_text": "[00:04] 3179506600716879943: hey, thanks for making the time. can you hear me okay?\n[00:48] 7159239817221071177: yep all good. what time is it there for you? it's afternoon here.\n[01:27] 3179506600716879943: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in France.\n[01:52] 7159239817221071177: sure. so we're Vantage Wallet, we're in the fintech space. and yeah, our new VP of Engineering came in and wants observability sorted in the first quarter.\n[02:37] 7159239817221071177: we're running like five different tools and none of them talk to each other.\n[03:40] 3179506600716879943: that's a really common story. what are you using today?\n[04:27] 7159239817221071177: right now it's mostly Newforge. and the agent config is a nightmare and the UI feels ten years old.\n[05:46] 3179506600716879943: got it. and is that something you're actively trying to fix?\n[06:46] 7159239817221071177: we've got a SOC 2 audit coming and we need longer log retention than we currently keep.\n[07:55] 3179506600716879943: got it. and is that something you're actively trying to fix?\n[08:29] 7159239817221071177: honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions.\n[09:33] 3179506600716879943: got it. and is that something you're actively trying to fix?\n[09:55] 7159239817221071177: we've basically decided we're leaving our current vendor, the question is just who we go to next.\n[10:55] 7159239817221071177: we're locked into an annual contract that auto-renews and it's a fight to get out.\n[12:13] 3179506600716879943: makes sense. when you picture this working well, what does that look like?\n[12:46] 7159239817221071177: your tracing demo looked genuinely better than what we're used to.\n[13:29] 3179506600716879943: and what would hold you back from moving on this?\n[14:23] 7159239817221071177: we got burned on a migration two years ago so people are nervous about doing it again.\n[14:57] 7159239817221071177: everyone's trained on the existing dashboards, there's a lot of muscle memory.\n[15:31] 3179506600716879943: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:54] 7159239817221071177: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[16:44] 3179506600716879943: great — here's what I'd suggest as a next step.\n[17:08] 7159239817221071177: works for me.",
+  "speaker_map": {}
+}

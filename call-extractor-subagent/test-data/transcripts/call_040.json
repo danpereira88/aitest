@@ -1,0 +1,19 @@
+{
+  "call": {
+    "id": "128754996918394",
+    "url": "https://app.callvault.example/call?id=128754996918394",
+    "title": "Ironclad Manufacturing / Skyloom",
+    "scheduled": "2025-11-08T09:00:00-07:00",
+    "started": "2025-11-08T09:01:11-07:00",
+    "duration": 979,
+    "language": "eng",
+    "scope": "External",
+    "direction": "Conference",
+    "system": "Google Meet"
+  },
+  "transcript_text": "[00:12] 2010923901510652796: hey, thanks for making the time. can you hear me okay?\n[00:46] 4841905884646775029: yep all good. what time is it there for you? it's morning here.\n[01:56] 2010923901510652796: perfect. so I'd love to hear what's going on on your side and what made you take the call. I know you're over in Canada.\n[02:55] 4841905884646775029: sure. so we're Ironclad Manufacturing, we're in the enterprise it space. and yeah, we're in the middle of moving to Kubernetes and it forced the whole monitoring question open.\n[03:55] 4841905884646775029: our monitoring bill is now our second biggest cloud line item and it's totally unpredictable.\n[04:16] 2010923901510652796: that's a really common story. what are you using today?\n[05:09] 4841905884646775029: right now it's mostly Datazen. and the bill has completely gotten away from us, it doubled year over year and nobody can predict it.\n[05:59] 4841905884646775029: we've also looked at Grafalt and Honeydew a bit.\n[06:35] 2010923901510652796: got it. and is that something you're actively trying to fix?\n[07:31] 4841905884646775029: logs are scattered across four different systems and correlating them during an incident is painful.\n[08:41] 2010923901510652796: got it. and is that something you're actively trying to fix?\n[09:33] 4841905884646775029: our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out.\n[10:29] 4841905884646775029: we're locked into an annual contract that auto-renews and it's a fight to get out.\n[11:03] 2010923901510652796: makes sense. when you picture this working well, what does that look like?\n[11:21] 4841905884646775029: your tracing demo looked genuinely better than what we're used to.\n[12:18] 2010923901510652796: and what would hold you back from moving on this?\n[13:03] 4841905884646775029: the question everyone's going to ask is how much re-instrumentation this actually takes.\n[13:33] 4841905884646775029: we're mid-contract so there's a sunk-cost argument every time this comes up.\n[14:26] 2010923901510652796: totally fair. let me show you how a couple of teams like yours handled exactly that.\n[15:21] 4841905884646775029: yeah that'd be helpful. timeline-wise we're not in a huge rush but it's on the roadmap.\n[16:27] 2010923901510652796: great — here's what I'd suggest as a next step.\n[17:21] 4841905884646775029: works for me.",
+  "speaker_map": {
+    "2010923901510652796": "Sarah Okonkwo",
+    "4841905884646775029": "Riya (Ironclad Manufacturing)"
+  }
+}
