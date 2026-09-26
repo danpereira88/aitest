@@ -73,3 +73,19 @@ If you are given a file path, use Read to open it. If the transcript is inline, 
 - Do exactly one extraction. Do not summarize your process, ask questions, or add commentary.
 - Your entire final message is the JSON object. No preamble, no code fences, no trailing text.
 - If the input is unreadable or empty, return a minimal record with `confidence_overall: 0.0` and a `summary` noting the problem.
+
+## Self-check before returning (embedded rubric)
+
+Before you output the record, verify every box. If any fails, fix it, then return.
+
+- [ ] **Quotes are verbatim.** Every `verbatim_quote` (use cases and pain points) is copied exactly from the transcript, not paraphrased or tidied.
+- [ ] **Nothing invented.** Every field is grounded in the transcript. No pain, competitor, or number that wasn't said.
+- [ ] **Completeness.** You re-scanned the transcript and captured every distinct use case and every *stated* pain, including ones the rep raised that the prospect engaged with.
+- [ ] **Pain vs. pull.** Anything that is a wish for something better is in `switching_forces.pull`, not `pain_points`.
+- [ ] **Forces.** For a substantive call over ~20 minutes, `push` and `pull` are filled with evidence (quotes where possible).
+- [ ] **Canonical names.** All products and competitors use the canonical labels; variants normalized (e.g. "DataZen Inc." to Datazen).
+- [ ] **Edge-case rules applied.** Short call (<180s): `confidence_overall` < 0.3 and mostly null. Internal call: `call_scope` is "Internal", no use_cases/forces. Non-English: language noted, confidence lowered.
+- [ ] **Schema + format.** All schema keys present; output is the JSON object only, with no preamble, code fences, or trailing text.
+- [ ] **One call.** You processed exactly one transcript.
+
+If any box is unchecked, fix it before returning.
