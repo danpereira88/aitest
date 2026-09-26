@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "source_file": "call_003.json",
+    "call_id": "142881362386024",
+    "call_url": "https://app.callvault.example/call?id=142881362386024",
+    "extraction_date": "2026-02-28",
+    "call_date": "2025-12-03",
+    "call_duration_minutes": 23.2,
+    "call_language": "eng",
+    "call_scope": "External",
+    "rep": null,
+    "confidence_overall": 0.92
+  },
+  "account": {
+    "name": "Echowave",
+    "segment": "Media / Streaming",
+    "segment_confidence": 0.9,
+    "region": "AMER",
+    "region_confidence": 0.76,
+    "country": "Canada",
+    "description": "Echowave is a media company running a modern cloud stack."
+  },
+  "products": {
+    "mentioned": [
+      "Skyloom Cost",
+      "Skyloom Alerts",
+      "Skyloom Logs"
+    ],
+    "primary_focus": "Skyloom Cost",
+    "multi_product": true
+  },
+  "use_cases": [
+    {
+      "name": "Consolidate observability spend",
+      "category": "Cost Optimization",
+      "description": "Prospect wants to consolidate observability spend.",
+      "product_fit": [
+        "Skyloom Cost",
+        "Skyloom Platform"
+      ],
+      "verbatim_quote": "honestly the biggest driver is cost, we're paying for three tools and the finance team is asking hard questions",
+      "confidence": "high"
+    },
+    {
+      "name": "Meet audit and data-retention requirements",
+      "category": "Compliance / Audit",
+      "description": "Prospect wants to meet audit and data-retention requirements.",
+      "product_fit": [
+        "Skyloom Logs"
+      ],
+      "verbatim_quote": "we've got a SOC 2 audit coming and we need longer log retention than we currently keep",
+      "confidence": "high"
+    },
+    {
+      "name": "Fix noisy on-call alerting",
+      "category": "On-Call / Alerting",
+      "description": "Prospect wants to fix noisy on-call alerting.",
+      "product_fit": [
+        "Skyloom Alerts"
+      ],
+      "verbatim_quote": "our on-call folks are getting paged constantly for stuff that doesn't matter and they're burning out",
+      "confidence": "high"
+    },
+    {
+      "name": "Get a single pane of glass across tools",
+      "category": "Vendor Consolidation",
+      "description": "Prospect wants to get a single pane of glass across tools.",
+      "product_fit": [
+        "Skyloom Platform"
+      ],
+      "verbatim_quote": "we're tool-sprawled, everyone wants one place to look instead of jumping between five dashboards",
+      "confidence": "high"
+    }
+  ],
+  "switching_forces": {
+    "push": "cost / billing with current tooling",
+    "pull": "the single-pane thing is really appealing, we're tired of jumping between tools",
+    "anxiety": "honestly the concern is whether the team has bandwidth to switch right now",
+    "habit": "we're mid-contract so there's a sunk-cost argument every time this comes up",
+    "trigger_event": "a new engineering leader",
+    "push_verbatim": "our monitoring bill is now our second biggest cloud line item and it's totally unpredictable",
+    "pull_verbatim": "the single-pane thing is really appealing, we're tired of jumping between tools",
+    "anxiety_verbatim": "honestly the concern is whether the team has bandwidth to switch right now"
+  },
+  "pain_points": [
+    {
+      "description": "our monitoring bill is now our second biggest cloud line item and it's totally unpredictable",
+      "category": "Cost / Billing",
+      "verbatim_quote": "our monitoring bill is now our second biggest cloud line item and it's totally unpredictable",
+      "competitor_named": "Datazen"
+    },
+    {
+      "description": "our mean time to resolve is embarrassing, last outage took us three hours just to localize",
+      "category": "Slow Incident Resolution",
+      "verbatim_quote": "our mean time to resolve is embarrassing, last outage took us three hours just to localize",
+      "competitor_named": null
+    }
+  ],
+  "competitors": {
+    "named": [
+      "Datazen",
+      "Cloud-native tooling"
+    ],
+    "context": "Datazen is the incumbent; came up as the main displacement target."
+  },
+  "deal_signals": {
+    "stage_hint": "Demo",
+    "urgency": "Low",
+    "blockers_mentioned": [
+      "honestly the concern is whether the team has bandwidth to switch right now"
+    ],
+    "next_steps_mentioned": "agreed to a two-week proof of concept on one service"
+  },
+  "summary": "Echowave (Media / Streaming, AMER) is evaluating Skyloom, driven by a new engineering leader. Currently on Datazen; main pain is cost / billing. Interested in Skyloom Cost, Skyloom Alerts. Stage: Demo, urgency Low."
+}
